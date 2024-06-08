@@ -1,0 +1,11 @@
+load
+AVL_dir/geometry.avl
+case
+AVL_dir/cases.run
+oper
+x
+FT 
+AVL_dir\forces.txt
+O
+
+q
